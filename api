@@ -1,0 +1,7 @@
+first make the database 
+2. insert data in database
+3. make api from the data 
+4. use jason formatter of google extension to make api looks pretty 
+
+api is kind of a software 
+so we need to version it.. when a customer is using old version. as he or she can get the new version without any problem.. cz it may conflict when we develop the api . 
